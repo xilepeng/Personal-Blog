@@ -14,21 +14,21 @@ skills:
 
 - name: Go Development
   logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "用作主要的开发语言，能够编写可扩展、可测试和可维护的程序。"
   url: "https://golang.org/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "用作主要操作系统，能够编写 bash/shell 脚本。"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "有基于 git 的开发经验，日常使用 Github。"
   url: "https://git-scm.com/"
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "了解基本的 C/C++ 编程。 用于竞赛编程和解决问题。"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
