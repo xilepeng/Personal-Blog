@@ -2,12 +2,13 @@
 title: "Shortcodes Samples"
 date: 2020-06-08T08:06:25+06:00
 description: Shortcodes sample
+
 menu:
   sidebar:
     name: Shortcodes Sample
     identifier: shortcodes
     weight: 40
-hero: boat.jpg
+
 ---
 
 This is a sample post intended to test the followings:
@@ -129,14 +130,11 @@ This is line two. It should have `4rem` vertical space with previous line.
 
 {{< video src="/videos/sample.mp4" >}}
 
-<!-- markdown-link-check-disable-next-line -->
-Video by [Rahul Sharma](https://www.pexels.com/@rahul-sharma-493988) from [Pexels](https://www.pexels.com).
 
-
-
-
-------
+## Audio
 
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="/videos/01为什么要学习数据结构和算法？.mp3">
       </audio>
+
+

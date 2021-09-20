@@ -7,14 +7,12 @@ description: 好饭不怕晚
 
 
 
-# # specify the list of custom menus that you want to show in the top navbar.
-# # they will be separated by a divider from the main menus.
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+
 # customMenus:
 # - name: Docs
-#   url: https://toha-guides.netlify.app/posts/
-
-# - name: Tags
-#   url: https://hossainemruz.gitbook.io/notes/
+#   url:  https://xilepeng.github.io/posts/
 
 
 
